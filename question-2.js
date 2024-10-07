@@ -14,4 +14,4 @@ console.log(inventory[2])
 console.log(inventory)
 // 3) ให้คำนวณมูลค่ารวมของจำนวนสินค้าทั้งหมดในสต็อก
 let Totalquantity = (inventory[0].quantity*inventory[0].price) + (inventory[1].quantity*inventory[1].price)  + (inventory[2].quantity*inventory[2].price) 
-console.log(Totalquantity)
+console.log(`มูลค่ารวมของจำนวนสินค้าทั้งหมดในสต็อก ${Totalquantity} บาท`)

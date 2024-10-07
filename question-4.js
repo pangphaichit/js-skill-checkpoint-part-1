@@ -17,3 +17,4 @@ for (let i = 0; i < inventory.length; i++) {
 }
 
 console.log(`สินค้าที่มีจำนวนต่ำที่สุดในคลังสินค้าคือ ${minFruit} ซึ่งมี ${minQuantity} ชิ้น`)
+
